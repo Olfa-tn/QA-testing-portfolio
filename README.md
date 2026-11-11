@@ -28,7 +28,7 @@ This repository showcases my QA skills, testing methodologies and practical proj
 - Confluence
 - Postman
 
-**Test Automation Training & Practical Projects****
+**Test Automation – Training & Practical Projects**
 - Cypress – Training completed | Currently learning and practicing
 - Selenium – Training completed | Practical project planned
 - Robot Framework – Training completed | Practical project planned
@@ -45,7 +45,8 @@ This repository showcases my QA skills, testing methodologies and practical proj
 - ISTQB® Advanced Level – Test Management
 - ISTQB® Certified Tester – Testing with Generative AI
 
-- ## Training & Professional Development
+## Training & Professional Development
+
 - Cypress – Automation Testing Training
 - Selenium – Automation Testing Training
 - Robot Framework – Automation Testing Training
@@ -69,4 +70,3 @@ Projects will be progressively added to this repository:
 
 *Continuously learning and improving software quality practices.*
 
-Continuously learning and improving software quality practices.
